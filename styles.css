@@ -1,0 +1,41 @@
+body{
+    background-color: #a3c997;
+    font-family: Arial, sans-serif;
+}
+
+.title{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+
+.center{
+    margin: auto;
+    width:40%;
+}
+
+.container{
+    background-color: blanchedalmond;
+    border: 3px solid #ffffff;
+    border-radius: 10px;
+    overflow: scroll;
+}
+
+.subtitle{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20px;
+    font-size: 24px;
+    color: black;
+}
+
+.list{
+    text-align: center;
+    list-style-type: none;
+    margin-bottom: 25px;
+    font-size: 16px;
+    margin-left: 25%;
+}
